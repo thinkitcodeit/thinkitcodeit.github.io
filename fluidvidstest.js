@@ -13,7 +13,7 @@
 
   var fluidvids = {
     selector: ['iframe', 'object'],
-    players: ['www.youtube.com', 'player.vimeo.com', 'http://thinkitcodeit.github.io']
+    players: ['www.youtube.com', 'player.vimeo.com', 'thinkitcodeit.github.io']
   };
 
   var css = [
